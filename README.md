@@ -8,8 +8,14 @@ newman run “Path/CollectionName.json” -e Path/EnvironmentName.json
 newman run “Collection Link” -e “Path”/EnvironmentName.json
 
 Report: 
-Install: npm install -g newman-reporter-html
+Install:
+npm install -g newman-reporter-html
 	npm install -g newman-reporter-htmlextra
+	
+	
+	
+	
+	
 Run Command: 
 newman run “Collection Link” -e EnvironmentName.json -r cli,html
 newman run “Collection Link” -e EnvironmentName.json -r cli,htmlextra
