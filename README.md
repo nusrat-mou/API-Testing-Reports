@@ -1,4 +1,4 @@
-******For Installation*******
+#For Installation
 1. Install node.js and set in on the environment
 2. Install Newman --> Go to command prompt and type: npm install -g newman
 Newman 
