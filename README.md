@@ -20,6 +20,6 @@ Run Command:
 - newman run “Collection Link” -e EnvironmentName.json -r cli,html
 - newman run “Collection Link” -e EnvironmentName.json -r cli,htmlextra
 
-*** To see the newman report,you have to download the .html files or you can see from the image file that have been added in the newman folder ***
+***To see the newman report,you have to download the .html files or you can see from the image file that have been added in the newman folder***
 
 
