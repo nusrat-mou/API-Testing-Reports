@@ -1,7 +1,7 @@
 # For Installation
 - Install node.js and set in on the environment
 - Install Newman --> Go to command prompt and type: npm install -g newman
-Newman 
+Newman <br>
 ***Install Command***: npm install -g newman
 Run Command: 
 - newman run “Path/CollectionName.json” -e Path/EnvironmentName.json
